@@ -1,4 +1,4 @@
 # zuri-page
-A clone of zuris website
-#link to live page
- https://dearbornadeolu.github.io/zuri-page/
+This is a cloning of the Zuri official webpage
+###Link to Live page
+ 
